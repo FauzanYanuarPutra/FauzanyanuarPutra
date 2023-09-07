@@ -6,7 +6,16 @@
 </div>
 <div style="width: 90%; margin: 0 auto">
   <div align="center" style="display: flex; justify-content: center; align-items: center">
-    <img align="center" alt="Coding" width="300px" height="300px" style="object-fit: cover;" src="https://muhammadfauzan.netlify.app/assets/me.jpg" />
+<p align=""left>
+  - 🌱 I’m currently learning **Fullstack Developer**
+  
+  - 👨‍💻 All of my projects are available at [https://muhammadfauzan.netlify.app/](https://muhammadfauzan.netlify.app/)
+  
+  - 💬 Ask me about **react, vue, next js**
+  
+  - ⚡ Fun fact **I am Funny**
+</p>
+    <img align="right" alt="Coding" width="300px" height="300px" style="object-fit: cover;" src="https://muhammadfauzan.netlify.app/assets/me.jpg" />
   </div>
   <br><br>
   <p align="center"  style="display: flex; justify-content: center; align-items: center"> <img src="https://github-profile-trophy.vercel.app/?username=fauzanyan" alt="fauzanyan" /> </p>

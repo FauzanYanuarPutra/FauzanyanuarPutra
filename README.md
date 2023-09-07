@@ -1,13 +1,21 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fauzan Yanuar Putra</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<script src="https://cdn.tailwindcss.com"></script>
+<div class=" flex w-full h-[200px] md:h-[300px] bg-black ">
+  <img  alt="Coding"  class="w-full h-full object-cover" src="https://media.tenor.com/rA6ler4OflUAAAAC/zankyou-no.gif" />
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0c/96/49/0c9649f0a491373305b741c3be3d35cc.gif" />
+  <!-- <img  alt="Coding"  class="w-full h-full object-cover" src="https://i.pinimg.com/originals/0c/96/49/0c9649f0a491373305b741c3be3d35cc.gif" /> -->
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fauzanyan&label=Profile%20views&color=0e75b6&style=flat" alt="fauzanyan" /> </p>
+<div class="my-5">
+  <h1 align="center" class="text-3xl font-bold">Hi 👋, I'm Muhammad Fauzan Yanuar Putra</h1>
+  <h3 align="center" class="text-lg">A passionate fullstack developer from Indonesia</h3>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fauzanyan" alt="fauzanyan" /></a> </p>
+<div class="flex justify-center">
+  <img align="right" alt="Coding" class="w-[400px] " src="https://i.pinimg.com/originals/0c/96/49/0c9649f0a491373305b741c3be3d35cc.gif" />
+</div>
+<p align="left" class="flex justify-center"> <img src="https://github-profile-trophy.vercel.app/?username=fauzanyan" alt="fauzanyan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 🌱 I’m currently learning **Fullstack Developer**
 

@@ -1,4 +1,4 @@
-  <img  alt="Coding" width="100%" height="300px" style="object-fit: cover;" class="w-full h-full object-cover" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" />
+  <img  alt="Coding" width="100%" height="300px" style="object-fit: cover;" class="w-full h-full object-cover" src="https://cubettech.com/_next/image/?url=https%3A%2F%2Fcubettech.com%2Fwp-content%2Fuploads%2F2021%2F05%2FWEB-Full-Stack-Developer.jpg&w=3840&q=75" />
 
 <div class="my-5">
   <h1 align="center" class="text-3xl font-bold">Hi 👋, I'm Muhammad Fauzan Yanuar Putra</h1>

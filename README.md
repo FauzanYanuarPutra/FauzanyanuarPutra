@@ -5,10 +5,10 @@
   <h3 align="center" class="text-lg">A passionate fullstack developer from Indonesia</h3>
 </div>
 <div style="width: 90%; margin: 0 auto">
-  <div style="display: flex; justify-content: center; align-items: center">
-    <img align="right" alt="Coding" width="300px" height="300px" style="object-fit: cover;" src="https://muhammadfauzan.netlify.app/assets/me.jpg" />
+  <div align="center" style="display: flex; justify-content: center; align-items: center">
+    <img align="center" alt="Coding" width="300px" height="300px" style="object-fit: cover;" src="https://muhammadfauzan.netlify.app/assets/me.jpg" />
   </div>
-  <p align="left"  style="display: flex; justify-content: center; align-items: center"> <img src="https://github-profile-trophy.vercel.app/?username=fauzanyan" alt="fauzanyan" /> </p>
+  <p align="center"  style="display: flex; justify-content: center; align-items: center"> <img src="https://github-profile-trophy.vercel.app/?username=fauzanyan" alt="fauzanyan" /> </p>
   
   <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
   
